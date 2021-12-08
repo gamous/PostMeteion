@@ -10,7 +10,7 @@ Still unstable version because multithread problem (TODO: lock), don't post comm
 
 Repo:
 
-- `https://raw.githubusercontent.com/gamous/ZodiacPost/PluginMaster.json`
+- https://raw.githubusercontent.com/gamous/ZodiacPost/main/PluginMaster.json
 
 Usage: 
 
