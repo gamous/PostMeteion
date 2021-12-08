@@ -1,0 +1,12 @@
+﻿{
+  "Author": "Gamous",
+  "Name": "ZodicPost",
+  "Punchline": "Deep Dark Fantasy~",
+  "Description": "Post command to execute from http",
+  "InternalName": "ZodicPost",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "act",
+    "plugin"
+  ]
+}

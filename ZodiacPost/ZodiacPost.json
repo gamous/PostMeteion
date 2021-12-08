@@ -1,0 +1,14 @@
+﻿{
+  "Author": "Gamous",
+  "Name": "ZodiacPost",
+  "Punchline": "Deep Dark Fantasy~",
+  "Description": "Post command to execute from http",
+  "Changelog": null,
+  "Tags": [
+    "act",
+    "plugin"
+  ],
+  "DalamudApiLevel": 4,
+  "ImageUrls": null,
+  "IconUrl": "D:\\Games\\FFXIV\\Dalamud\\XIVLauncher\\devPlugins\\ZodiacPost\\icon.jpg"
+}
