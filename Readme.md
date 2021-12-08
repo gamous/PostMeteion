@@ -1,6 +1,6 @@
 # ZodicPost
 
-FFXIV [Dalamud]([goatcorp/Dalamud: FFXIV plugin framework and API (github.com)](https://github.com/goatcorp/Dalamud)) Plugin 
+FFXIV [Dalamud](https://github.com/goatcorp/Dalamud) Plugin 
 
 Listen local port to receive command from http and execute it  in game.
 
