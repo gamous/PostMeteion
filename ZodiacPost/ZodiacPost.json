@@ -5,10 +5,8 @@
   "Description": "Post command to execute from http",
   "Changelog": null,
   "Tags": [
-    "act",
-    "plugin"
+    "gamous",
+    "zodiacpost"
   ],
-  "DalamudApiLevel": 4,
-  "ImageUrls": null,
-  "IconUrl": "D:\\Games\\FFXIV\\Dalamud\\XIVLauncher\\devPlugins\\ZodiacPost\\icon.jpg"
+  "DalamudApiLevel": 4
 }

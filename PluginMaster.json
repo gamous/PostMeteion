@@ -1,0 +1,25 @@
+[
+    {
+      "Author": "Gamous",
+      "Name": "ZodiacPost",
+      "Punchline": "Deep Dark Fantasy~",
+      "Description": "Post command to execute from http",
+      "InternalName": "ZodiacPost",
+      "AssemblyVersion": "0.0.0.1",
+      "RepoUrl": "https://github.com/gamous/ZodiacPost",
+      "IconUrl": "https://raw.githubusercontent.com/gamous/ZodiacPost/main/Data/icon.jpg",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "gamous",
+        "zodiacpost"
+      ],
+      "DalamudApiLevel": 4,
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadCount": 233,
+      "LastUpdate": "1638992394",
+      "DownloadLinkInstall": "https://github.com/gamous/ZodiacPost/releases/latest/download/ZodiacPost.zip",
+      "DownloadLinkTesting": "https://github.com/gamous/ZodiacPost/releases/latest/download/ZodiacPost.zip",
+      "DownloadLinkUpdate": "https://github.com/gamous/ZodiacPost/releases/latest/download/ZodiacPost.zip"
+    }
+]

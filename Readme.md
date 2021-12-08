@@ -8,6 +8,10 @@ Can work with ACT Triggernometry.
 
 Still unstable version because multithread problem (TODO: lock), don't post command in 100ms twice :XD 
 
+Repo:
+
+- `https://raw.githubusercontent.com/gamous/ZodiacPost/PluginMaster.json`
+
 Usage: 
 
 - `/xpost` open control panel
