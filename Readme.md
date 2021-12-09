@@ -2,20 +2,25 @@
 
 FFXIV [Dalamud](https://github.com/goatcorp/Dalamud) Plugin 
 
-Listen local port to receive command from http and execute it  in game.
+Listen local port to receive command from http and execute it  in game just like what [PostNamazu]((https://github.com/Natsukage/PostNamazu)) did.
 
 Can work with ACT Triggernometry.
 
-Still unstable version because multithread problem (TODO: lock), don't post command in 100ms twice :XD 
+Still unstable version because multithread problem (TODO: lock), **don't post command in 100ms twice** :XD 
 
-Repo:
+### Repo
 
 - https://raw.githubusercontent.com/gamous/ZodiacPost/main/PluginMaster.json
 
-Usage: 
+### Usage
 
 - `/xpost` open control panel
 - show settings
 - set a lucky port number  and start
 - Just post your command to `http://localhost:{port_you_set}/command` (Triggernometry Action: Post General JSON )
+
+### Thanks
+
+- [XivCommon](https://git.sr.ht/~jkcclemens/XivCommon)
+- [PostNamazu](https://github.com/Natsukage/PostNamazu)
 
