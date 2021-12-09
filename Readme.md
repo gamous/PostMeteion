@@ -1,4 +1,4 @@
-# ZodicPost
+# ZodiacPost
 
 FFXIV [Dalamud](https://github.com/goatcorp/Dalamud) Plugin 
 
