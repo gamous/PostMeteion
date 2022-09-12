@@ -12,7 +12,7 @@ A python trigger framework **Noetophoreon** will provided to handle the post bet
 
 ### Install
 
-Add repo: `https://raw.githubusercontent.com/gamous/PostMetion/main/PluginMaster.json`
+Add repo: `https://raw.githubusercontent.com/gamous/PostMeteion/main/PluginMaster.json`
 
 ### Usage
 
