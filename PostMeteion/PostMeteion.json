@@ -1,0 +1,14 @@
+{
+  "Author": "gamous",
+  "Name": "PostMeteion",
+  "DalamudApiLevel": 7,
+  "Punchline": "Process the command you post. Could recvive the command from another plugin like Triggernometry in ACT.",
+  "Description": "Meteion would deliver the command to process which you post to her by httpapi. And sometimes, she will sing the endsong for you. Goodluck~ Warrior of Light.",
+  "InternalName": "PostMeteion",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "httpapi",
+    "plugin",
+    "command"
+  ]
+}
