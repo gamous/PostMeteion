@@ -23,7 +23,7 @@ Add repo: `https://raw.githubusercontent.com/gamous/PostMeteion/main/PluginMaste
 
 ## Wiki
 
-..
+[API Doc](https://github.com/gamous/PostMeteion/wiki)
 
 ### Thanks
 
