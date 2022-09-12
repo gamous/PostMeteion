@@ -1,6 +1,6 @@
 # PostMetion
 
-FFXIV [Dalamud](https://github.com/goatcorp/Dalamud) Plugin which receive instructions and report information like Metion.
+FFXIV [Dalamud](https://github.com/goatcorp/Dalamud) Plugin which receive instructions and report information like Meteion.
 
 Listen local port to receive command from http and execute it in game just like what [PostNamazu](https://github.com/Natsukage/PostNamazu) did.
 
