@@ -8,11 +8,13 @@ Can work with ACT [Triggernometry](https://github.com/paissaheavyindustries/Trig
 
 In addition, PostMetion also maintain a set of delegate to post realtime ingame information to webhook.
 
-A python trigger framework **Noetophoreon** will provided to handle the post between PostMetion.
+A python trigger framework [**Noetophoreon**](https://github.com/gamous/Noetophoreon) is provided about how to handle the post between PostMetion.
 
 ### Install
 
-Add repo: `https://raw.githubusercontent.com/gamous/PostMeteion/main/PluginMaster.json`
+Add repo: `https://raw.githubusercontent.com/gamous/PostMeteion/main/PluginMaster.json`  to import single plugin to your dalamud.
+
+Or use another [repo](https://github.com/gamous/DalamudPluginsCN-Dev) if gaming with Chinese client: `https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json` 
 
 ### Usage
 
